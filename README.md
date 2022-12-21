@@ -65,7 +65,7 @@ Email: kritagyakumra777@gmail.com
 
 ## License
 
-Copyright © 2020 [BING Z](https://github.com/Kritagya-web)
+Copyright © 2020 [Kritagya-web](https://github.com/Kritagya-web)
 
   <hr>
   <p align='center'><i>
