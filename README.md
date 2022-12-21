@@ -50,7 +50,7 @@ In order to use this APP, you need terminal (mac: pre-installed) or gitbash (pc:
 
 ## Credits and Reference
 
-The following links have helped me with this project. <br> [React Icons](https://react-icons.github.io/react-icons/) <br> [mongodb.com](https://www.mongodb.com/)<br> <br> [PayPal Developer Sandbox account](https://developer.paypal.com/developer/accounts/) <br> [Basir YouTube Vidoes](https://www.youtube.com/watch?v=TRCDsB9i3bI)
+The following links have helped me with this project. <br> [React Icons](https://react-icons.github.io/react-icons/) <br> [mongodb.com](https://www.mongodb.com/)<br> [PayPal Developer Sandbox account](https://developer.paypal.com/developer/accounts/) <br> [Basir YouTube Vidoes](https://www.youtube.com/watch?v=TRCDsB9i3bI)
 
 ## Tests
 
