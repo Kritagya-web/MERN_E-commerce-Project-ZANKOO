@@ -4,9 +4,8 @@ A Full-Stack Ecommerce application that uss React, Redux, MongoDB, Nodejs, Expre
 
 <hr>
 
+[![Author Kritagya](https://img.shields.io/badge/Author-Kritagya-%3C%3E)](https://www.linkedin.com/in/kritagya-kumra-bba9b41b6/)
 [![github-follow](https://img.shields.io/github/followers/Kritagya-web?label=Follow&logoColor=purple&style=social)](https://github.com/Kritagya-web)
-[![project-languages-used](https://img.shields.io/github/languages/count/Kritagya-web/MERN_E-commerce-Project-ZANKOO)](https://github.com/imbingz/MERN-stack-ecommerce)
-[![project-top-language](https://img.shields.io/github/languages/top/Kritagya-web/MERN_E-commerce-Project-ZANKOO?color=blueviolet)](https://github.com/Kritagya-web/MERN_E-commerce-Project-ZANKOO)
 [![node.js](https://img.shields.io/node/v/c?color=pink)](https://nodejs.org/en/)
 [![npm](https://img.shields.io/npm/v/npm?color=blue&logo=npm)](https://www.npmjs.com/package/inquirer)
 
